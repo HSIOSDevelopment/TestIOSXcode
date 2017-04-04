@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"This Test Commit");
+    NSLog(@"Test One more Commit");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
